@@ -1,5 +1,5 @@
 module.exports = {
-    name: 'core.plugin.hooks',
+    name: 'core.loader.hooks',
     init(definition, done) {
 
         var core = this;
