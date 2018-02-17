@@ -1,6 +1,6 @@
 {
     "name": "core.loader.hooks",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "description": "loads hooks from plugin definition",
     "main": "index.js",
     "scripts": {
